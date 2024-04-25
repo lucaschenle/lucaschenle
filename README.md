@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/lucasle45)](https://t.me/lucasle45)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucaschenle@gmail.com)](mailto:lucaschenle@gmail.com)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
+I am Lucas Chen 😃. I am from Sydney, Australia and currently pursuing my master degree at UNSW. I love to explore and learn about new things.
 ## 👯 Communities
 * DSC Lead.
 * Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
@@ -19,22 +19,21 @@ I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B
 * Internshala Student Partner-16.
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
+- Front-end development using **HTML, Javascript, CSS, React**.
+- Backend development using **NodeJS, Django**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
+- Desktop application development using **C#** (Still learning).
 - Mobile application development using **Flutter and Kotlin**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- 📫 Read my blogs: [Lucas Blog](https://lucaslechen.webflow.io/).
+- 🎯 Portfolio site: [Portfolio](https://lucaslechen.webflow.io/).
+- 🔔 Subscribe:- [Lucas In India](https://youtube.com/@lucasinindia258?si=rneF7ULuhCVy_kuH).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucaschenle&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 
